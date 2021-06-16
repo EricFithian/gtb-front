@@ -1,5 +1,5 @@
-function Footer(props) {
-    return <h1>Footer</h1>;
+function Footer() {
+    return <h1>This is my footer</h1>;
   }
   
   export default Footer;
